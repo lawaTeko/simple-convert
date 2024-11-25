@@ -10,7 +10,7 @@ int main(){
 	double fahrenheit, result;
 	
 	// bagian input
-	cout << "MASUKAN FAHRENHEIT : ";
+	cout << "INPUT FAHRENHEIT : ";
 	cin >> fahrenheit;
 	
 	cout << endl;
