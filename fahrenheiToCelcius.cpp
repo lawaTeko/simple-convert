@@ -17,7 +17,7 @@ int main(){
 	
 	// bagian output
 	result = fahrenheitToCelsius(fahrenheit);
-	cout << result << " Celcius";
+	cout << "Fahrenheit = " << fahrenheit << " konversi ke " << result << " Celcius";
 	
 	cin.get();
 	return 0;
