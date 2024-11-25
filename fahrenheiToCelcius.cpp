@@ -10,7 +10,7 @@ int main(){
 	double fahrenheit, result;
 	
 	// bagian input
-	cout << "masukan nilai fahrenheit : ";
+	cout << "MASUKAN FAHRENHEIT : ";
 	cin >> fahrenheit;
 	
 	cout << endl;
