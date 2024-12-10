@@ -1,3 +1,5 @@
+// lawaTeko, Kairatu
+// Konversi sederhana Fahrenheit ke Celcius
 #include <iostream>
 using namespace std;
 
