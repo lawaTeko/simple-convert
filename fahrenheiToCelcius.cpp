@@ -1,5 +1,5 @@
-#include <iostream>
 // lawaTeko, Kairatu.
+#include <iostream>
 using namespace std;
 
 double fahrenheitToCelsius(double fahrenheit) {
