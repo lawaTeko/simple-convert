@@ -11,13 +11,13 @@ int main(){
 	
 	double fahrenheit, result;
 	
-	// bagian input =
+	// bagian Input =
 	cout << "masukan nilai fahrenheit : ";
 	cin >> fahrenheit;
 	
 	cout << endl;
 	
-	// bagian output =
+	// bagian Output =
 	result = fahrenheitToCelsius(fahrenheit);
 	cout << "Fahrenheit = " << fahrenheit << " konversi ke " << result << " Celcius";
 	
